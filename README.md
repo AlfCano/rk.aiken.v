@@ -5,7 +5,7 @@
 ![Version](https://img.shields.io/badge/Version-0.02.9-blue.svg)
 [![License: GPL v3](https://img.shields.io/badge/License-GPL%20v3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
 ![RKWard](https://img.shields.io/badge/Platform-RKWard-green)
-[![R Linter](https://github.com/AlfCano/rk.aiken_v/actions/workflows/lintr.yml/badge.svg)](https://github.com/AlfCano/rk.aiken_v/actions/workflows/lintr.yml)
+[![R Linter](https://github.com/AlfCano/rk.aiken.v/actions/workflows/lintr.yml/badge.svg)](https://github.com/AlfCano/rk.aiken.v/actions/workflows/lintr.yml)
 ![AI Gemini](https://img.shields.io/badge/AI-Gemini-4285F4?logo=googlegemini&logoColor=white)
 
 This repository contains the source code for `rk.aiken_v`, an RKWard plugin package designed to calculate and interpret two key coefficients proposed by L.R. Aiken for analyzing rating data.
